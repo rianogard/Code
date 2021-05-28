@@ -26,8 +26,9 @@ ventas = []
 cant_ventas = len(ventas)
 mas_clientes = 'si'
 
-print("-------------------PROGRAMA DE VENTa DE AUTOS-------------------")
+print("-------------------PROGRAMA DE VENTA DE AUTOS-------------------")
 print("Vendemos autos")
+print("Ford, Chevrolet y Fiat")
 
 while mas_clientes == 'si':
     nombre = input("Ingrese el nombre: ")
